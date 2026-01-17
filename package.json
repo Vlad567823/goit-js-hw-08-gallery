@@ -7,6 +7,7 @@
     "deploy": "parcel build index.html --public-url ./goit-js-hw-08-gallery/ && gh-pages -d dist",
     "deploy:gh-pages": "gh-pages -d dist"
   },
+   "homepage": "https://Vlad567823.github.io/goit-js-hw-08-gallery/",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.16.3"
